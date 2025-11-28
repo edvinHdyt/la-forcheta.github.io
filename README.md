@@ -32,10 +32,10 @@ Website La Forchetta menyediakan berbagai fitur untuk mendukung pengalaman pengg
 ## Pembagian tugas
 1. Dashboard (Inna, Herlyana)
 2. Login (Jevrene)
-3. Hasil Search (Edvin)
+3. Hasil Search (Herlyana)
 4. Detail Makanan (Edvin)
 5. Archive Makanan (Fatimah, belva)
 6. Wishlist Makanan (Belva)
-7. Profil (Jevrene)
+7. Profil (Inna)
 8. Dokumentasi (Fatimah)
 
